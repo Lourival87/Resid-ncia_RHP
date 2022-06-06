@@ -1,0 +1,139 @@
+corpo {
+
+    preenchimento :  0 ;
+
+    margem :  0 ;
+
+    cor de fundo :  # ffffff ;
+
+}
+
+#login { _
+
+    exibição : flexível;
+
+    align-items : centro;
+
+    justificar-conteúdo : flex-start;
+
+    altura :  100 vh ;
+
+    font-family : Cambria , Cochin , Georgia , Times ,  'Times New Roman' , serifa;
+
+}
+
+. cartão {
+
+    cor de fundo :  rgba ( 97 ,  198 ,  241 ,  0,849 );
+
+    preenchimento :  40px ; _
+
+    raio da borda :  2 px ;
+
+    largura : 280px ; _
+
+}
+
+. cabeçalho do cartão {
+
+    padding-bottom :  50 px ;
+
+    opacidade :  0,8 ;
+
+    cor :  rgb ( 0 ,  0 ,  0 );
+
+}
+
+. card-header :: após {
+
+    conteúdo :  "" ;
+
+    largura :  70px ; _
+
+    altura :  1px ; _
+
+    cor de fundo :  rgb ( 0 ,  0 ,  0 );
+
+    exibição : bloco;
+
+    margin-top :  -17 px ;
+
+    margem esquerda :  -5 px ;
+
+}
+
+. rótulo de conteúdo do cartão  {
+
+    cor :  rgb ( 0 ,  0 ,  0 );
+
+    tamanho da fonte :  12 px ;
+
+    opacidade :  0,8 ;
+
+}
+
+. área de conteúdo do cartão {
+
+    exibição : flexível;
+
+    flex-direction : coluna;
+
+    preenchimento : 10 px  0 ;
+
+}
+
+. entrada de área de conteúdo do cartão  {
+
+    margem superior :  10 px ;
+
+    preenchimento : 0  5 px ;
+
+    cor de fundo : transparente;
+
+    borda : nenhuma;
+
+    border-bottom :  1 px sólido # 000000 ;
+
+    contorno : nenhum;
+
+    cor :  rgb ( 0 ,  0 ,  0 );
+
+}
+
+. rodapé de cartão {
+
+    exibição : flexível;
+
+    flex-direction : coluna;
+
+}
+
+. cartão-rodapé . enviar {
+
+    largura :  100 % ;
+
+    altura :  25px ; _
+
+    cor de fundo :  # ffffff ;
+
+    borda :  1px ; _
+
+    cor : # 000000 ;
+
+    margem :  10 px  0 ;
+
+}
+
+. rodapé de cartão  a {
+
+    text-align : centro;
+
+    tamanho da fonte :  18 px ;
+
+    opacidade :  0,8 ;
+
+    cor :  #fff ; _
+
+    decoração de texto : nenhuma;
+
+}
